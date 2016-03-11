@@ -1,5 +1,5 @@
 {
-  "name": "asgardcms/dashboard-module",
+  "name": "bitsoflove-asgard/dashboard",
   "type": "asgard-module",
   "description": "Dashboard module for AsgardCMS. Handles the display of the dashboard.",
   "keywords": [
@@ -12,6 +12,16 @@
       "name": "Nicolas Widart",
       "email": "info@asgardcms.com",
       "role": "Developer"
+    },
+    {
+      "name": "Pepijn Olivier",
+      "email": "pepijn@bitsoflove.be",
+      "role": "Developer"
+    },
+    {
+      "name": "Stijn Tilleman",
+      "email": "stijn@bitsoflove.be",
+      "role": "Maintainer"
     }
   ],
   "support": {
